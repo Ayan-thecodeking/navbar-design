@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+.wrapper{
+    background-color: rgb(1, 2, 1);
+    position: fixed;
+    width: 100%;
+
+}
+.wrapper nav{
+    display: flex;
+    background-color: red;
+}
+.content .logo a{
+    color: #fff;
+}
+.content .links li a{
+  color: #fff;
+}
+.wrapper .search-icon{
+color: #fff;
+}
